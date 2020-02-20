@@ -14,6 +14,7 @@
 		A837577023FEB30C00AB031D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A837576F23FEB30C00AB031D /* Assets.xcassets */; };
 		A837577323FEB30C00AB031D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A837577223FEB30C00AB031D /* Preview Assets.xcassets */; };
 		A837577623FEB30C00AB031D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A837577423FEB30C00AB031D /* LaunchScreen.storyboard */; };
+		A837577E23FEB34200AB031D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A837577D23FEB34200AB031D /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A837577223FEB30C00AB031D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A837577523FEB30C00AB031D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A837577723FEB30C00AB031D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A837577D23FEB34200AB031D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				A837576F23FEB30C00AB031D /* Assets.xcassets */,
 				A837577423FEB30C00AB031D /* LaunchScreen.storyboard */,
 				A837577723FEB30C00AB031D /* Info.plist */,
+				A837577D23FEB34200AB031D /* GoogleService-Info.plist */,
 				A837576A23FEB30B00AB031D /* my_fun.xcdatamodeld */,
 				A837577123FEB30C00AB031D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A837577623FEB30C00AB031D /* LaunchScreen.storyboard in Resources */,
+				A837577E23FEB34200AB031D /* GoogleService-Info.plist in Resources */,
 				A837577323FEB30C00AB031D /* Preview Assets.xcassets in Resources */,
 				A837577023FEB30C00AB031D /* Assets.xcassets in Resources */,
 			);
